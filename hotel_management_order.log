@@ -1,0 +1,28 @@
+INFO:root:Order logged: Table 101, Menu: Puran Poli, Quantity: 2, Date: 2024-08-14 11:22:07.446239
+INFO:root:Order logged: Table 101, Menu: Puran Poli, Quantity: 2, Date: 2024-08-14 11:22:47.405189
+INFO:root:Order logged: Table 101, Menu: Puran Poli, Quantity: 2, Date: 2024-08-14 11:23:08.377029
+INFO:root:Order logged: Table 101, Menu: Puran Poli, Quantity: 2, Date: 2024-08-14 11:26:39.140934
+INFO:root:Order logged: Table 101, Menu: Misal Pav, Quantity: 3, Date: 2024-08-14 11:26:39.204786
+INFO:root:Bill generated: BILL101 for Table 101 on 2024-08-14 11:27:01.365890
+INFO:root:Order logged: Table 101, Menu: Puran Poli, Quantity: 2, Date: 2024-08-14 11:29:04.382511
+INFO:root:Order logged: Table 101, Menu: Puran Poli, Quantity: 2, Date: 2024-08-14 11:29:40.490570
+INFO:root:Order logged: Table 101, Menu: Misal Pav, Quantity: 3, Date: 2024-08-14 11:29:40.504842
+INFO:root:Order logged: Table 101, Menu: Puran Poli, Quantity: 2, Date: 2024-08-14 11:36:38.427872
+INFO:root:Order logged: Table 101, Menu: Puran Poli, Quantity: 2, Date: 2024-08-14 11:37:09.848936
+INFO:root:Order logged: Table 101, Menu: Misal Pav, Quantity: 3, Date: 2024-08-14 11:37:09.885821
+INFO:root:Bill generated: BILL102 for Table 101 on 2024-08-14 11:37:51.017531
+INFO:root:Order logged: Table 101, Menu: Puran Poli, Quantity: 2, Date: 2024-08-14 11:44:01.690423
+INFO:root:Order logged: Table 101, Menu: Puran Poli, Quantity: 2, Date: 2024-08-14 11:44:15.979681
+INFO:root:Order logged: Table 101, Menu: Misal Pav, Quantity: 3, Date: 2024-08-14 11:44:16.016959
+INFO:root:Order logged: Table 101, Menu: Puran Poli, Quantity: 2, Date: 2024-08-14 11:51:11.333630
+INFO:root:Order logged: Table 101, Menu: Puran Poli, Quantity: 2, Date: 2024-08-14 11:51:23.137502
+INFO:root:Order logged: Table 101, Menu: Misal Pav, Quantity: 3, Date: 2024-08-14 11:51:23.137502
+INFO:root:Bill generated: BILL103 for Table 101 on 2024-08-14 11:51:28.708967
+INFO:root:Order logged: Table 102, Menu: Puran Poli, Quantity: 2, Date: 2024-08-14 12:01:24.887079
+INFO:root:Order logged: Table 102, Menu: Misal Pav, Quantity: 3, Date: 2024-08-14 12:01:24.923215
+INFO:root:Bill generated: BILL104 for Table 101 on 2024-08-14 12:01:28.349882
+INFO:root:Order logged: Table 102, Menu: Sabudana Khichdi, Quantity: 3, Date: 2024-08-14 12:01:54.478884
+INFO:root:Order logged: Table 102, Menu: Thalipeeth, Quantity: 2, Date: 2024-08-14 12:01:54.487151
+INFO:root:Order logged: Table 102, Menu: Solkadhi, Quantity: 1, Date: 2024-08-14 12:01:54.487829
+INFO:root:Bill generated: BILL105 for Table 102 on 2024-08-14 12:01:54.487829
+INFO:root:Order logged: Table 102, Menu: Thalipeeth, Quantity: 3, Date: 2024-08-22 11:42:11.216807
